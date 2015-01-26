@@ -98,12 +98,12 @@ p {
 }
 
 footer p {
-  color: #f2f2f2;
+  color: #3F5666; /*#f2f2f2;*/
 }
 
 a {
   text-decoration: none;
-  color: #007edf;
+  color: #3F5666 /*#007edf*/;
   text-shadow: none;
 
   transition: color 0.5s ease;
