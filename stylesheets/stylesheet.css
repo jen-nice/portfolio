@@ -50,7 +50,7 @@ Theme Styles
 
 body {
   box-sizing: border-box;
-  color:#EA6045; /*#373737*/
+  color:#3F5666; /*#373737*/
   background: #F5E5C0;
   font-size: 16px;
   font-family: 'Myriad Pro', Calibri, Helvetica, Arial, sans-serif;
@@ -278,7 +278,7 @@ Full-Width Styles
   right: 10px;
   z-index: 10;
   padding: 10px 50px 10px 10px;
-  color: #fff;
+  color: #EA5666; /*FFF*/
   background: url('../images/blacktocat.png') #0090ff no-repeat 95% 50%;
   font-weight: 700;
   box-shadow: 0 0 10px rgba(0,0,0,.5);
