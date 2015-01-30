@@ -152,9 +152,9 @@ p img {
   display: inline;
   margin: 0;
   padding: 0;
-  vertical-align: middle;
+ /* vertical-align: middle;
   text-align: center;
-  border: none;
+  border: none;*/
 }
 
 pre, code {
