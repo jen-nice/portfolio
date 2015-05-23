@@ -256,11 +256,11 @@ form {
   padding: 20px;
 }
 
-.software{
+#main_content_wrap .software{
   background:#FA8072;
 }
 
-.fun{
+#main_content_wrap .fun{
   background:#FFFF99;
 }
 /*******************************************************************************
@@ -373,7 +373,8 @@ Full-Width Styles
 }
 
 #footer_wrap {
-  background: #212121;
+  /*background: #212121;*/
+  background: #003366;
 }
 
 #mission_picture{
