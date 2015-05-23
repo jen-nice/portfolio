@@ -256,6 +256,13 @@ form {
   padding: 20px;
 }
 
+.software{
+  background:#FA8072;
+}
+
+.fun{
+  background:#FFFF99;
+}
 /*******************************************************************************
 Full-Width Styles
 *******************************************************************************/
@@ -287,7 +294,8 @@ Full-Width Styles
 }
 
 #header_wrap {
-  background: #212121;
+  /*background: #212121;*/
+  background: #003366;
   background: -moz-linear-gradient(top, #373737, #212121);
   background: -webkit-linear-gradient(top, #373737, #212121);
   background: -ms-linear-gradient(top, #373737, #212121);
