@@ -1,7 +1,20 @@
 body {
 	background-color:#fdf7f7;
 	font-family:  'Arvo', serif, Helvetica, Arial;
-	font-size:14px;
+	font-size:20px;
+}
+p {
+  margin: 10px 0 15px 0;
+  font-size:16px;
+}
+
+p img {
+  display: inline;
+  margin: 0;
+  padding: 0;
+ vertical-align: middle;
+  text-align: center;
+  border: none;
 }
 
 ul, ol, dl {
@@ -42,7 +55,6 @@ a:hover, a:focus {text-decoration: underline;color: #000000}
 h1, h2, h3, h4, h5, h6 {
   margin: 10px 0;
   font-weight: 700;
-  color:#222222;
   font-family: 'Lucida Grande', 'Calibri', Helvetica, Arial, sans-serif;
   letter-spacing: -1px;
 }
@@ -55,7 +67,6 @@ h1 {
 h2 {
   padding-bottom: 10px;
   font-size: 25px;
-  background: url('../images/bg_hr.png') repeat-x bottom;
 }
 
 h3 {
