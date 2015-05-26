@@ -93,6 +93,7 @@ h6 {
 	position: relative;
 	padding: 50px 10px 30px 10px;
 	margin: 0 auto;
+	text-align: center;
 	background-image:
     	linear-gradient(
 	 blue,
@@ -111,6 +112,7 @@ h6 {
 }*/
 
 #project_title {
+  text-align: center;
   margin: 0;
   color: #fff;
   font-size: 58px;/*42*/
@@ -119,6 +121,7 @@ h6 {
 }
 
 #project_tagline{
+ text-align: center;
   margin: 0;
   color: #fff;
   font-size: 25px:
@@ -136,11 +139,16 @@ h6 {
 
 
 #footer_wrap {
-	background-color:#3b85ce ;
+	 text-align: center;
+	background-color:#ffffff;
 	width: 100%;
 	position: relative;
 	padding: 10px 10px; 
 	margin: 0 auto;
+}
+
+#navigation{
+	 text-align: center;
 }
 
 #software{
