@@ -1,8 +1,9 @@
 body {
-	background-color:#fdf7f7;
-	font-family:  'Arvo', serif, Helvetica, Arial;
-	font-size:20px;
+background-color:#fdf7f7;
+font-family:  'Arvo', serif, Helvetica, Arial;
+font-size:20px;
 }
+
 p {
   margin: 10px 0 15px 0;
   font-size:20px;
@@ -17,6 +18,12 @@ p img {
   border: none;
 }
 
+img {
+    max-width:100%;
+    height: auto;
+    width: auto\9; /* ie8 */
+}
+    
 ul, ol, dl {
   margin-bottom: 15px
 }
