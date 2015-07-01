@@ -2,8 +2,8 @@ body {
 background-color:#ffffff;
 font-family:  'Arvo', serif, Helvetica, Arial;
 font-size:20px;
-margin-left:150px;
-margin-right:150px;
+padding-left:150px;
+padding-right:150px;
 }
 
 p {
